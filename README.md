@@ -15,3 +15,8 @@ Some hover and click interactions.
 
 #### [Example 03](https://github.com/emilyfuhrman/CU_D3/blob/master/example_03.zip)
 Importing an external data file.
+
+---
+
+#### [D3.js Library](https://d3js.org/)
+#### [SVG Basic Shapes](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes)
