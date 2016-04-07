@@ -12,3 +12,6 @@ Circles with data-driven radii, styling.
 
 #### [Example 02](https://github.com/emilyfuhrman/CU_D3/blob/master/example_02.zip)
 Some hover and click interactions.
+
+#### [Example 03](https://github.com/emilyfuhrman/CU_D3/blob/master/example_03.zip)
+Importing an external data file.
